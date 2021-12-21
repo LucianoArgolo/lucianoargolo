@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Luciano Argolo 🖐️
-##
+#
 <div>
   <a href="https://github.com/lucianoargolo">
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=lucianoargolo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
