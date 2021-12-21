@@ -4,7 +4,7 @@
 - 🌱 Estudando HTML/CSS e Javascript
 - 😄 Pronouns: ele/dele
 
-<div align="center">
+<div align="space-between">
   <a href="https://github.com/lucianoargolo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianoargolo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoargolo&layout=compact&langs_count=7&theme=dark"/>
