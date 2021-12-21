@@ -2,11 +2,13 @@
 
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/lucianoargolo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianoargolo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoargolo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=lucianoargolo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoargolo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+ 
+ <br/> 
   
  <div style="display: inline_block"><br>
    <img align="center" alt="Luciano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,5 +25,4 @@
    
    ![Snake animation](https://github.com/lucianoargolo/lucianoargolo/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
-
+ 
