@@ -24,5 +24,4 @@
    ![Snake animation](https://github.com/lucianoargolo/lucianoargolo/blob/output/github-contribution-grid-snake.svg)
 </div>
   
- ##
- Estudando HTML5 / CSS3 e JAVASCRIPT ✍️
+
