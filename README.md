@@ -4,6 +4,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucianoargolo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoargolo&layout=compact&langs_count=7&theme=dark"/>
   </div>
+
 ### O que estou estudando agora:
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
