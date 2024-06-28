@@ -3,19 +3,24 @@
     <a href="https://github.com/lucianoargolo">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucianoargolo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoargolo&layout=compact&langs_count=7&theme=dark"/>
+  </div>
+
+### Com quais linguagens já trabalho:
+  <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">  
+    <img src="https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=html5&logoColor=white" alt="Tailwindcss">
   </div>
 
 ### O que estou estudando agora:
   <div>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   </div>
   
 ### Qual é o próximo:
   <div>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.JS">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </div>
@@ -34,6 +39,7 @@
 
 ### Contatos:  
 <div> 
+  <a href="https://wa.me/+5579999197077" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lucianoargolo1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://mail.google.com/mail/u/1/?ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
    <a href="https://www.facebook.com/luciano.argolo.7/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"> </a>
