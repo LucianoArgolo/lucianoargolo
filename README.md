@@ -28,13 +28,13 @@
 ### Onde estou estudando:
   <div>
     <img src="https://img.shields.io/badge/B7WEB-black?style=for-the-badge" alt="B7WEB">
-    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
   </div>
   
  ### Ferramentas mais usadas:
   <div>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   </div>
 
 ### Contatos:  
